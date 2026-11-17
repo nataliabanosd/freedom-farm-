@@ -17,9 +17,9 @@
 # set this, it will default to the content.md file on Github. The Doc must
 # be public "Anyone with the link". To rebuild site, Actions > "Run workflow"
 content_url = ""
-title = "Your Story Title"
+title = "Freedom Farmers Face Cuts"
 tagline = "A sentence or two that sets up the story and makes the reader want to scroll."
-byline = "By Your Name"
+byline = "By Natalia Banos Delgado, Sarah Banapour, Hadeel Eljarrari, Sharon Ochola and Nadege Bizimungu."
 date = ""
 # Short summary used by search engines and social media previews.
 description = ""
